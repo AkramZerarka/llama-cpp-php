@@ -5,7 +5,7 @@
         "Kambo",
         "llama-cpp-php"
     ],
-    "homepage": "https://github.com/kambo/llama-cpp-php",
+    "homepage": "https://github.com/AkramZerarka/llama-cpp-langchain-adapter.git",
     "license": "MIT",
     "authors": [
         {
