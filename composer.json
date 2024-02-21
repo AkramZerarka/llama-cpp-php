@@ -1,5 +1,5 @@
 {
-    "name": "kambo/llama-cpp-php",
+    "name": "akramzerarka/llama-cpp-php",
     "description": "The package enables the use of the LLama C++ library in PHP, thereby allowing the setup and execution of LLM models in PHP on your local machine.",
     "keywords": [
         "Kambo",
@@ -11,6 +11,11 @@
         {
             "name": "Bohuslav Šimek",
             "email": "bohuslav@simek.si",
+            "role": "Developer"
+        },
+        {
+            "name": "Akram Zerarka",
+            "email": "akram.zerarka@gmail.com",
             "role": "Developer"
         }
     ],
